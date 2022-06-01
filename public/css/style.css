@@ -172,6 +172,18 @@ article div.main-article{
     position: relative;
     padding: 15px;
 }
+footer {
+    padding-left: 25px;
+    padding-right: 25px;
+     text-align: center;
+     
+ }
+ 
+.icon-footer{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #03264C;
+}
 
 @media (min-width: 361px){
     main section article .descripcion{
